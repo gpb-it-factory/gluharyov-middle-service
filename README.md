@@ -17,7 +17,7 @@
 
 participant "TelegramBot" as report
 participant "Middle Java Service" as report2
-database "Бэкэнд" as db
+database "Backend Service" as db
 
 
 
