@@ -1,0 +1,8 @@
+
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          register-service:
+            url: //localhost:9000
